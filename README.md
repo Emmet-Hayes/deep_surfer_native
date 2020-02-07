@@ -2,8 +2,8 @@
 This is a showcase of neural networks for image classification, text generation, image generation, music generation, deep dream image manipulation, and teaching AI agents to act in video game environments using reinforcement techniques. This is a very large wrapper for lots of powerful cutting edge algorithms that I did not invent! Rather than changing the code, users can interact with the user interface to change many many hyperparameters for these neural networks, all implemented in tensorflow and keras.
 
 
-Here are some sample images from the image generator trained on celebA dataset:
-![alt text](people-gan/Faces.png)
+Here is a sample image from the image generator trained on celebA dataset:
+![alt text](people-gan/samples/samples_99_4.png)
 
 
 Here is an example deep dream image at 4 octaves:

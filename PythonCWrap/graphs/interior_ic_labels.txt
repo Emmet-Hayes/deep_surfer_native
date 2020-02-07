@@ -1,0 +1,67 @@
+airport inside
+artstudio
+auditorium
+bakery
+bar
+bathroom
+bedroom
+bookstore
+bowling
+buffet
+casino
+children room
+church inside
+classroom
+cloister
+closet
+clothingstore
+computerroom
+concert hall
+corridor
+deli
+dentaloffice
+dining room
+elevator
+fastfood restaurant
+florist
+gameroom
+garage
+greenhouse
+grocerystore
+gym
+hairsalon
+hospitalroom
+inside bus
+inside subway
+jewelleryshop
+kindergarden
+kitchen
+laboratorywet
+laundromat
+library
+livingroom
+lobby
+locker room
+mall
+meeting room
+movietheater
+museum
+nursery
+office
+operating room
+pantry
+poolinside
+prisoncell
+restaurant
+restaurant kitchen
+shoeshop
+stairscase
+studiomusic
+subway
+toystore
+trainstation
+tv studio
+videostore
+waitingroom
+warehouse
+winecellar

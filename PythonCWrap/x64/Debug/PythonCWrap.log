@@ -1,0 +1,121 @@
+﻿  c_deep_surfer.c
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\polyderivative.c(40,24): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\polyderivative.c(48,46): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\polyderivative.c(45,18): warning C4101:  'ps': unreferenced local variable
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\polyderivative.c(56,25): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\polyderivative.c(54,1): warning C4244:  'initializing': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\polyderivative.c(65,17): warning C4018:  '<=': signed/unsigned mismatch
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\polyderivative.c(67,11): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(674,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(674,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(676,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(676,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(678,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(678,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(680,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(680,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(682,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(682,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(684,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(684,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(686,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(686,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(688,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(688,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(690,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(690,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(692,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(692,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(694,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(694,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(696,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(696,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(698,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(698,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(700,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(700,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(702,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(702,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(704,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(704,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(706,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(706,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(708,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(708,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(710,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(710,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(712,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(712,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(737,96): warning C4244:  '=': conversion from 'float' to 'unsigned short', possible loss of data
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(738,96): warning C4244:  '=': conversion from 'float' to 'unsigned short', possible loss of data
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(739,96): warning C4244:  '=': conversion from 'float' to 'unsigned short', possible loss of data
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(740,96): warning C4244:  '=': conversion from 'float' to 'unsigned short', possible loss of data
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(741,96): warning C4244:  '=': conversion from 'float' to 'unsigned short', possible loss of data
+  Pokedex.c
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(2147,1): warning C4244:  'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(674,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(674,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(676,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(676,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(678,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(678,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(680,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(680,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(682,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(682,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(684,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(684,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(686,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(686,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(688,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(688,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(690,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(690,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(692,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(692,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(694,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(694,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(696,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(696,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(698,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(698,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(700,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(700,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(702,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(702,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(704,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(704,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(706,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(706,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(708,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(708,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(710,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(710,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(712,19): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(712,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(737,96): warning C4244:  '=': conversion from 'float' to 'unsigned short', possible loss of data
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(738,96): warning C4244:  '=': conversion from 'float' to 'unsigned short', possible loss of data
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(739,96): warning C4244:  '=': conversion from 'float' to 'unsigned short', possible loss of data
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(740,96): warning C4244:  '=': conversion from 'float' to 'unsigned short', possible loss of data
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(741,96): warning C4244:  '=': conversion from 'float' to 'unsigned short', possible loss of data
+  Generating Code...
+C:\Users\ehaye\Documents\deep_surfer\PythonCWrap\Pokedex.c(2147,1): warning C4244:  'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  file_string.h
+  smallnn.h
+  Generating Code...
+Pokedex.obj : error LNK2005: buildTeam already defined in c_deep_surfer.obj
+Pokedex.obj : error LNK2005: damageCalculator already defined in c_deep_surfer.obj
+Pokedex.obj : error LNK2005: displayDex already defined in c_deep_surfer.obj
+Pokedex.obj : error LNK2005: getFullStats already defined in c_deep_surfer.obj
+Pokedex.obj : error LNK2005: mainPokemonMenu already defined in c_deep_surfer.obj
+Pokedex.obj : error LNK2005: makeAbility already defined in c_deep_surfer.obj
+Pokedex.obj : error LNK2005: makeItem already defined in c_deep_surfer.obj
+Pokedex.obj : error LNK2005: makeMove already defined in c_deep_surfer.obj
+Pokedex.obj : error LNK2005: makeNature already defined in c_deep_surfer.obj
+Pokedex.obj : error LNK2005: makePokemonByName already defined in c_deep_surfer.obj
+Pokedex.obj : error LNK2005: modCalculator already defined in c_deep_surfer.obj
+Pokedex.obj : error LNK2005: playPokemonMatch already defined in c_deep_surfer.obj
+Pokedex.obj : error LNK2005: printPokemon already defined in c_deep_surfer.obj
+Pokedex.obj : error LNK2005: testAllPokemon already defined in c_deep_surfer.obj
+Pokedex.obj : error LNK2005: typeToString already defined in c_deep_surfer.obj
+LINK : fatal error LNK1104: cannot open file 'python37.lib'

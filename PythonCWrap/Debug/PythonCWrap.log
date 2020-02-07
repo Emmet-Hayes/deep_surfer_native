@@ -1,0 +1,8 @@
+﻿pycwrapmain.obj : error LNK2019: unresolved external symbol __imp__PyMem_RawFree referenced in function _test_embedded_python
+pycwrapmain.obj : error LNK2019: unresolved external symbol __imp__PyRun_SimpleStringFlags referenced in function _test_embedded_python
+pycwrapmain.obj : error LNK2019: unresolved external symbol __imp__Py_SetProgramName referenced in function _test_embedded_python
+pycwrapmain.obj : error LNK2019: unresolved external symbol __imp__Py_Initialize referenced in function _test_embedded_python
+pycwrapmain.obj : error LNK2019: unresolved external symbol __imp__Py_FinalizeEx referenced in function _test_embedded_python
+pycwrapmain.obj : error LNK2019: unresolved external symbol __imp__Py_DecodeLocale referenced in function _test_embedded_python
+C:\Users\Emmet Hayes\AppData\Local\Programs\Python\Python36\libs\python36.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Emmet Hayes\source\repos\PythonCWrap\Debug\PythonCWrap.exe : fatal error LNK1120: 6 unresolved externals

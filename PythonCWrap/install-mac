@@ -1,0 +1,44 @@
+#!/bin/bash
+
+
+#step 1 install Xcode if it is not installed..
+echo hey its me Emmet I have this is the mac install script for my multinet app.
+echo it will install the app into your local applications folder.
+echo step 1: first I need to check and see if you have Xcode installed..
+echo if xcode is already installed, you should see a message in this terminal saying so.
+echo if xcode is not installed yet, an xcode installation window should pop up.
+echo keep calm and follow the windows instructions before pressing enter through this script.
+xcode-select --install
+
+
+#step 2 install/check home-brew if it is not installed..
+echo step2: downloading homebrew from github 
+echo if homebrew is already installed, you will have the chance to skip installation.
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+
+#step 3 install python3.6 for homebrew (python3.7 doesn't have tensorflow yet!)
+echo step3: installing python3..
+brew install python3
+
+
+#step 4 setup virtual python environment
+echo attempting to build a virtual environment..
+python3 -m venv env
+echo attempting to activate virtual environment..
+source env/bin/activate
+echo attempting to install all python libraries for multinet..
+pip3 install —upgrade PyQt5 numpy tensorflow pillow opencv-python scipy magenta soundfile Pydub
+
+
+#step 5 download multinet deep learning assets from my GitHub
+echo moving to ~/Applications
+cd ~/Applications
+git clone https://github.com/Emmet-Hayes/Multinet-Deep-Learning-GUI-App.git
+
+
+#step 6 launch the application
+echo moving to MULTINET..
+cd ~/Applications/Multinet-Deep-Learning-GUI-App
+echo launching multinet..
+python3 Emmets_Deep_Diver.py

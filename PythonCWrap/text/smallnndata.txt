@@ -1,0 +1,3346 @@
+topology_size: 3
+topology: 2 4 1
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0
+in: 1 1
+out: 0
+in: 1 0
+out: 0
+in: 0 1
+out: 0
+in: 0 0
+out: 1
+in: 0 1
+out: 1
+in: 1 0
+out: 1
+in: 0 0
+out: 0
+in: 1 1
+out: 0

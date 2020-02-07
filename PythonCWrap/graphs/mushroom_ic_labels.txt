@@ -1,0 +1,9 @@
+agaricus
+amanita
+boletus
+cortinarius
+entoloma
+hygrocybe
+lactarius
+russula
+suillus

@@ -33,7 +33,7 @@ this command will both check for xcode and also install if it is not present on 
 
 
 an ANSI C-compiler
-Python 3.6 interpreter
+Python 3.6 interpreter (I'd recommend 3.6.9 or latest 3.6 version)
 
 you can install most dependencies using pip.. that said, there are a lot of them. best of luck my friend ;)
 

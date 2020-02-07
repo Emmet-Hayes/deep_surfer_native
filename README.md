@@ -8,7 +8,7 @@ Here are some sample images from the image generator trained on celebA dataset:
 ![alt text](people-gan/inputs/inputs_0.png)
 
 128x128 Outputs after 99 Epochs on 10000 images:
-![alt text](people-gan/epochs/samples_99.png)
+![alt text](people-gan/epochs/samples_100.png)
 
 
 Here is an example deep dream image at 4 octaves:

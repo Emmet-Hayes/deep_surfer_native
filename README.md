@@ -138,7 +138,7 @@ Python 3.6 interpreter (I'd recommend 3.6.9 or latest 3.6 version)
 you can install most dependencies using pip.. that said, there are a lot of them. i wish you good luck because there can be cases
 of version of these dependencies that clash, in that case I recommend 
 
-    pip install magenta-gpu tensorflow-gpu keras numpy scipy pygame pydub pillow opencv-python gym gym_super_mario_bros nes_py soundfile matplotlib PyQt5
+    pip install magenta-gpu==1.0.1 tensorflow-gpu==1.14.0 keras numpy scipy pygame pydub pillow opencv-python gym gym_super_mario_bros nes_py soundfile matplotlib PyQt5
 
 (it will run with CPU-version of magenta and tensorflow, but don't expect much speed from the AI gaming agent or the image generator...
  seriously. they will both take multiple days to run.)

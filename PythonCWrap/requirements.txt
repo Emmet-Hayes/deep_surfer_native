@@ -146,7 +146,7 @@ PyYAML==5.3
 pyzmq==20.0.0
 requests==2.22.0
 resampy==0.2.2
-rsa==4.0
+rsa==4.1
 scikit-image==0.16.2
 scikit-learn==0.22.1
 scipy==1.2.0

@@ -142,7 +142,7 @@ python-rtmidi==1.1.2
 pytz==2019.3
 PyWavelets==1.1.1
 pywin32==300
-PyYAML==5.3
+PyYAML==5.4
 pyzmq==20.0.0
 requests==2.22.0
 resampy==0.2.2

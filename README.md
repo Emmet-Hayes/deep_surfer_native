@@ -1,5 +1,5 @@
 # deep_surfer_native
-This is a showcase of neural networks for image classification, text generation, image generation, music generation, deep dream image manipulation, and teaching AI agents to act in video game environments using reinforcement techniques. This is a very large wrapper for lots of powerful cutting edge algorithms that I did not invent! Rather than having to go into the code to change each neural networks hyper parameters, users can interact with the user interface to change them! All of this is implemented using tensorflow and OpenAI Gym.
+This is a showcase of neural networks for image classification, text generation, image generation, music generation, deep dream image manipulation, and teaching AI agents to act in video game environments using reinforcement techniques. This is a very large wrapper for lots of powerful cutting edge algorithms that I did not invent! Rather than restricting usage of these powerful AI algorithms to developers by having to go into the code to change each neural networks hyper parameters, users can interact with a simple, yet populous user interface to change them! All of this is implemented using PyQt, tensorflow, keras, and OpenAI Gym, as well as several other python 3 libraries.
 
 
 Here are some sample images from the image generator trained on celebA dataset:

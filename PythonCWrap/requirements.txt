@@ -64,7 +64,7 @@ idna==2.8
 imageio==2.6.1
 imutils==0.5.3
 intervaltree==3.0.2
-ipython==7.11.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 iso-639==0.4.5
 iso3166==1.0.1

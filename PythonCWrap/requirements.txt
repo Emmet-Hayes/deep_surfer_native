@@ -163,7 +163,7 @@ sympy==1.5.1
 TA-Lib @ file:///C:/Users/gelli/Downloads/TA_Lib-0.4.18-cp36-cp36m-win_amd64.whl
 tensor2tensor==1.15.2
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.7.2
 tensorflow-datasets==1.3.2
 tensorflow-estimator==1.14.0
 tensorflow-gan==2.0.0

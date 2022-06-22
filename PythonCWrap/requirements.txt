@@ -100,7 +100,7 @@ mss==6.1.0
 nes-py==8.1.1
 networkx==1.8.1
 numba==0.47.0
-numpy==1.18.1
+numpy==1.22.0
 oauth2client==3.0.0
 opencv-python==4.1.2.30
 opt-einsum==3.1.0

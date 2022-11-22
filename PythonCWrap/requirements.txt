@@ -110,7 +110,7 @@ pandas==0.25.3
 parso==0.5.2
 pbr==5.4.4
 pickleshare==0.7.5
-Pillow==7.0.0
+Pillow==9.3.0
 pretty-midi==0.2.8
 progressbar==2.5
 promise==2.3
